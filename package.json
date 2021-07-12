@@ -1,0 +1,19 @@
+{
+  "name": "ashley-tests",
+  "version": "1.0.0",
+  "description": "Tests for teaching Ashley code",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjay07/ashley-test.git"
+  },
+  "author": "Leandro Yabut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arjay07/ashley-test/issues"
+  },
+  "homepage": "https://github.com/arjay07/ashley-test#readme"
+}
