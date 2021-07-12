@@ -4,6 +4,7 @@
   "description": "Tests for teaching Ashley code",
   "main": "main.js",
   "scripts": {
+    "start": "node .",
     "test": "jest"
   },
   "repository": {
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/arjay07/ashley-test/issues"
   },
-  "homepage": "https://github.com/arjay07/ashley-test#readme"
+  "homepage": "https://github.com/arjay07/ashley-test#readme",
+  "dependencies": {
+    "jest": "^27.0.6",
+    "prompt-sync": "^4.2.0"
+  }
 }
